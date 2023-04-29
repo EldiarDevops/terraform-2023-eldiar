@@ -1,0 +1,6 @@
+terraform apply --var-file virgina.tfvars
+terraform destroy --var-file ohio.tfvars
+terraform apply --var-file regions/virgina.tfvars
+terraform workspace show
+terraform workspace new 
+--auto-approve
