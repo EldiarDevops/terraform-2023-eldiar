@@ -1,1 +1,0 @@
-# terraform-2023-eldiar
